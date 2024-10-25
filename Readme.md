@@ -13,6 +13,6 @@ LP6 war gut habe vieles gelernt. es war ingsesamt sehr erfolgreich.
 
 
 ## 2.11.2024
-[] Modul 320 verfeinern
-[] videos über OOP schauen
+[] Modul 320 verfeinern über polymorphismus kapselung vererbung.
+[] videos über OOP schauen. Klassendiagramme nochmal anschauen
 [] Programmieren OOP noch letztes mal hier
