@@ -16,3 +16,10 @@ LP6 war gut habe vieles gelernt. es war ingsesamt sehr erfolgreich.
 [] Modul 320 verfeinern über polymorphismus kapselung vererbung.
 [] videos über OOP schauen. Klassendiagramme nochmal anschauen
 [] Programmieren OOP noch letztes mal hier
+
+
+
+## 2.11.2024
+[] AWS Aufträge anschauen lösen
+[] AWS wieder
+[] Modul 294 aufträge lösen
