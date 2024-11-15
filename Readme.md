@@ -4,6 +4,9 @@ Grob-Planung
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig? Momentan bin ich stabil unterwegs keine schlechte note.
 Was wäre ein geeignetes Projekt für diese LP5? Ich möchte aufjedenfall an den Modulen arbeiten. und OOP lernen
 
+Ziel ist das ich mind jede note über eine 5 habe
+
+
 LP6 war gut habe vieles gelernt. es war ingsesamt sehr erfolgreich.
 
 ## 25.10.2024
