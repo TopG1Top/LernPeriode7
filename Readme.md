@@ -28,14 +28,18 @@ LP6 war gut habe vieles gelernt. es war ingsesamt sehr erfolgreich.
 [] Modul 294 aufträge lösen
 
 
-## 22.11.2024
-[] AWS Aufträge anschauen lösen
-[] AWS wieder
-[] Modul 294 aufträge lösen
-[] eigenes Projekt planen ideen etc
 
 
 ## 15.11.2024
 [] AWS Aufträge anschauen lösen eigener server
 [] AWS die vielen videos anschauen
 [] Modul 294 weiter programmieren.
+
+
+
+## 22.11.2024
+[] AWS Aufträge anschauen lösen
+[] AWS wieder
+[] Modul 294 aufträge lösen
+[] eigenes Projekt planen ideen etc
+
