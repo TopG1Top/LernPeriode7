@@ -43,3 +43,10 @@ LP6 war gut habe vieles gelernt. es war ingsesamt sehr erfolgreich.
 [] Modul 294 aufträge lösen
 [] eigenes Projekt planen ideen etc
 
+
+## 20.12.2024
+[] unit tests machen mit ms
+[] selber c sharp programmieren calclator etc
+[] lernvideos anschauen
+[] docker weiterarbeiten
+
